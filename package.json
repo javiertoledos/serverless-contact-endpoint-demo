@@ -1,0 +1,16 @@
+{
+  "name": "serverless-contact-form",
+  "version": "1.0.0",
+  "description": "Serverless Contact Form API with DynamoDB and offline support",
+  "repository": "",
+  "author": "Javier Toledo <jtoledo@masterdevel.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.655.0",
+    "serverless-dynamodb-local": "^0.2.39",
+    "serverless-offline": "^6.1.4"
+  }
+}
